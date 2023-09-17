@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Asrorbek-Abrorov
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://t.me/as_abrorov
 
 <!---
 Asrorbek-Abrorov/Asrorbek-Abrorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
