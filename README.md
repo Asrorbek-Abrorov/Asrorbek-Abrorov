@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asrorbek-Abrorov
-- 👀 I’m interested in ...
+- 👀 I’m interested in .Net
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/as_abrorov
