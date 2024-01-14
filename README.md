@@ -36,4 +36,8 @@
 ## Find me on the web or chat with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
-[![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)                                           ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat-square&color=blue)
+[![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)                                           ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=green&style=flat-square&color=blue)
+
+
+
+##181717
