@@ -23,7 +23,7 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 ## Most Used Languages:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)]
 
 ## Find me on the web or chat with me:
 
@@ -31,7 +31,6 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 [![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)
 
 ![Telegram Profile Picture](https://cdn4.cdn-telegram.org/file/q2kQ8Exfd9ybX3bTJnt8WGULbU95LrUps0wYmRuyoywLEXc1oEws89vsa9VoSo9V43GQaKkvrrvmrfCqZDjo2vtwFvaE0TWnq4xhuL7-1gfCNjJ027O2U-RpL-Q5WD6Cs_5cn2USDd4XDMJsjBsol9-JE8q4N1S5HuiJvEJT1jNz-LCXp00J9bNnw-b56rZip5ZXVV35hKf75QEt34CqixHaElBSZ1rhXMyAkX1O5Sw5u4swxng-y07yzIwCOp7uDCrARKbyoXwbypTsaw-ZTcaah_oCYVUbg6LCh-IW7Wy1QT5uO5fgY9sCo1fA7wmaApaTN67czNqmvZszX6vXHQ.jpg)
-[![Telegram Badge](https://img.shields.io/badge/-as_abrorov-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_abrorov)
 
 
   ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat)
