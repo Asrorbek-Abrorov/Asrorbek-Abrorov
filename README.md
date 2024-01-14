@@ -25,8 +25,6 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
 
-![Asrorbek-Abrorov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&show_icons=true&theme=radical)
-
 ## Find me on the web or chat with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
