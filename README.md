@@ -15,7 +15,7 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 ## Most Used Languages:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)
 
 ## Find me on the web or chat with me:
 
