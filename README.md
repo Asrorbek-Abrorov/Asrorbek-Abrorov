@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me https://t.me/as_abrorov, as.abrorov@gmail.com
 
-# Your Name
+# ASRORBEK ABROROV
 
 Hey there!
 I am @Asrorbek-Abrorov, Tashkent Uzbekistan.
