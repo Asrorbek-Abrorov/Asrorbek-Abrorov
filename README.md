@@ -5,7 +5,7 @@
 # Your Name
 
 Hey there!
-I am [@Asrorbek-Abrorov], [Your Job Title], [Your Location].
+I am @Asrorbek-Abrorov, [Tashkent Uzbekistan].
 
 ## Languages and Tools:
 
