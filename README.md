@@ -15,7 +15,7 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 ## Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&show_icons=true&theme=radical)
+[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributions (last year):
 
