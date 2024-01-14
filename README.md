@@ -9,12 +9,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/asrorbek-abrorov-8a9957296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asrorbek Abrorov on LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/13302558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13302558 on Stack Overflow" height="30" width="40" /></a>
-  <a href="https://t.me/as_abrorov" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="(https://as.abrorov@gmail.com)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white" alt="Google"></a>
 </p>
 
-[![Google](https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white)](https://as.abrorov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as_abrorov)
+  [![Google](https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white)](https://as.abrorov@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as_abrorov)
 
 <h3 align="center">Languages and Tools:</h3>
 
