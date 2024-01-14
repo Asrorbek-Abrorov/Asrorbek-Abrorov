@@ -16,7 +16,7 @@ I am [Your Name], [Your Job Title], [Your Location].
 
 ## Github Stats:
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&show_icons=true&theme=radical)
 
 ## Contributed to (last year):
 
