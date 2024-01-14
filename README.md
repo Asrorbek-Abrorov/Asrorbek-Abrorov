@@ -5,7 +5,7 @@
 # Your Name
 
 Hey there!
-I am [Your Name], [Your Job Title], [Your Location].
+I am [@Asrorbek-Abrorov], [Your Job Title], [Your Location].
 
 ## Languages and Tools:
 
@@ -33,7 +33,4 @@ I am [Your Name], [Your Job Title], [Your Location].
 ## Find me on the web or chat with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-
-> your-favorite-terminal >_
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](as.abrorov@gmail.com)
