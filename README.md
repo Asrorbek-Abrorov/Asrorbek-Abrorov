@@ -19,7 +19,7 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 ## Contributions (last year):
 
-[![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
+[![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)]
 
 ## Most Used Languages:
 
