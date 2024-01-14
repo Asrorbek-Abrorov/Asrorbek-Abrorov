@@ -30,7 +30,7 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
 [![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-as_abrorov-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_abrorov)
-![Telegram Profile Picture](<IMAGE_LINK>)
+![Telegram Profile Picture](<[IMAGE_LINK](https://cdn4.cdn-telegram.org/file/q2kQ8Exfd9ybX3bTJnt8WGULbU95LrUps0wYmRuyoywLEXc1oEws89vsa9VoSo9V43GQaKkvrrvmrfCqZDjo2vtwFvaE0TWnq4xhuL7-1gfCNjJ027O2U-RpL-Q5WD6Cs_5cn2USDd4XDMJsjBsol9-JE8q4N1S5HuiJvEJT1jNz-LCXp00J9bNnw-b56rZip5ZXVV35hKf75QEt34CqixHaElBSZ1rhXMyAkX1O5Sw5u4swxng-y07yzIwCOp7uDCrARKbyoXwbypTsaw-ZTcaah_oCYVUbg6LCh-IW7Wy1QT5uO5fgY9sCo1fA7wmaApaTN67czNqmvZszX6vXHQ.jpg)https://cdn4.cdn-telegram.org/file/q2kQ8Exfd9ybX3bTJnt8WGULbU95LrUps0wYmRuyoywLEXc1oEws89vsa9VoSo9V43GQaKkvrrvmrfCqZDjo2vtwFvaE0TWnq4xhuL7-1gfCNjJ027O2U-RpL-Q5WD6Cs_5cn2USDd4XDMJsjBsol9-JE8q4N1S5HuiJvEJT1jNz-LCXp00J9bNnw-b56rZip5ZXVV35hKf75QEt34CqixHaElBSZ1rhXMyAkX1O5Sw5u4swxng-y07yzIwCOp7uDCrARKbyoXwbypTsaw-ZTcaah_oCYVUbg6LCh-IW7Wy1QT5uO5fgY9sCo1fA7wmaApaTN67czNqmvZszX6vXHQ.jpg>)
 
 
 
