@@ -20,7 +20,7 @@ I am [Your Name], [Your Job Title], [Your Location].
 
 ## Contributed to (last year):
 
-[![Your Name's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://github.com/your-github-username/github-readme-stats)
+[![Your Name's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
 
 ## Total Stars Earned:
 
