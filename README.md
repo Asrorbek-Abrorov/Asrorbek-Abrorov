@@ -5,14 +5,13 @@
 # Your Name
 
 Hey there!
-I am @Asrorbek-Abrorov, [Tashkent Uzbekistan].
+I am @Asrorbek-Abrorov, Tashkent Uzbekistan.
 
 ## Languages and Tools:
 
-- Language 1
-- Language 2
-- Tool 1
-- Tool 2
+- C#
+- Python
+- .Net
 
 ## Github Stats:
 
