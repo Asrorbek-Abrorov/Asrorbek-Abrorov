@@ -15,11 +15,11 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 ## Github Stats:
 
-![Asrorbek-Abrorov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&show_icons=true&theme=radical)
 
 ## Contributions (last year):
 
-[![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
+[![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
 
 ## Most Used Languages:
 
