@@ -34,4 +34,4 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 [![Telegram Badge](https://img.shields.io/badge/-as_abrorov-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_abrorov)
 
 
-![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat)
+                                                                                          ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat)
