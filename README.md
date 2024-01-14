@@ -24,11 +24,11 @@ I am [Your Name], [Your Job Title], [Your Location].
 
 ## Total Stars Earned:
 
-[![Your Name's total stars](https://github-readme-stats.vercel.app/api?username=your-github-username&count_private=true&include_all_commits=true)](https://github.com/your-github-username/github-readme-stats)
+[![Your Name's total stars](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&count_private=true&include_all_commits=true)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
 
 ## Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/your-github-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
 
 ## Find me on the web or chat with me:
 
