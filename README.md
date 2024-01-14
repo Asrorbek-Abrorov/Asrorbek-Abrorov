@@ -22,10 +22,6 @@ I am @Asrorbek-Abrorov, [Tashkent Uzbekistan].
 
 [![Your Name's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
 
-## Total Stars Earned:
-
-[![Your Name's total stars](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&count_private=true&include_all_commits=true)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
-
 ## Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
