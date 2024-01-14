@@ -1,0 +1,20 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Update every day at midnight
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update GitHub stats
+        uses: thibaudsmart/github-stats-action@v3
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_file: README.md
+          theme: github-dark
+          stats: true
+          top-langs: true
+          exclude-repo: 'github-stats-update'
