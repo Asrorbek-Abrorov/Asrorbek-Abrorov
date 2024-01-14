@@ -13,7 +13,7 @@
   <a href="(https://google.com/as.abrorov@gmail.com)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white" alt="Google"></a>
 </p>
 
-[![Google]([https://img.shields.io/badge/Google-D14836?logo=google&logoColor=white](https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png))](https://google.com/as.abrorov@gmail.com)
+[![Google]((https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png))](https://google.com/as.abrorov@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/as_abrorov)
 
 <h3 align="center">Languages and Tools:</h3>
