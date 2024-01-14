@@ -29,10 +29,9 @@ I am @Asrorbek-Abrorov from Tashkent, Uzbekistan.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
 [![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-as_abrorov-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/<as_abrorov
+[![Telegram Badge](https://img.shields.io/badge/-as_abrorov-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/as_abrorov)
+![Telegram Profile Picture](<IMAGE_LINK>)
 
 
 
-
-
-![Views](https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=181717&style=flat)
+  ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat)
