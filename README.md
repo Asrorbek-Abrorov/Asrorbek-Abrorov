@@ -11,6 +11,8 @@
   <a href="https://stackoverflow.com/users/13302558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13302558 on Stack Overflow" height="30" width="40" /></a>
 </p>
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
+  [![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)                                           
   [![Google](https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white)](https://as.abrorov@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as_abrorov)
 
 <h3 align="center">Languages and Tools:</h3>
@@ -36,5 +38,4 @@
 
 ## Find me on the web or chat with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
-[![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)                                           ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat-square&color=blue)
+![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat-square&color=blue)
