@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    I'm a passionate software developer with a strong interest in building web applications. I'm always looking for new opportunities to learn and grow as a developer.
+    I'm a passionate software developer with a strong interest in programming I'm always looking for new opportunities to learn and grow as a developer.
   </em>
 </p>
 
