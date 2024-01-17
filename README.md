@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    I'm a student from Uzbekistan with a strong interest in programming. I'm constantly seeking new opportunities to expand my knowledge and skills as a programmer.
+    I'm a student from Uzbekistan with a strong interest in programming. I'm constantly seeking new opportunities to expand my knowledge and skills as a programmer. 
   </em>
 </p>
 
