@@ -1,4 +1,4 @@
-<h1 align="center">:wave: Hey there, I'm Asrorbek Abrorov</h1>
+<h1 align="center">:wave: Hey there, I'm Asrorbek Abrorov</h1>  
 
 <p align="center">
   <em>
