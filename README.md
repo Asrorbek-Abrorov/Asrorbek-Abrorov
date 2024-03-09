@@ -35,6 +35,7 @@
 
 ## Find me on the web or chat with me:
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
 [![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)                                           
 [![Google](https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white)](https://as.abrorov@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as_abrorov)
