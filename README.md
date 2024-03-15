@@ -37,7 +37,7 @@ v
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrorbek-abrorov-8a9957296/)
 [![Gmail](https://img.shields.io/badge/as.abrorov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://as.abrorov@gmail.com)                                           
-[![Google](https://img.shields.io/badge/Google-D14836?style=for-the-badge&logo=google&logoColor=white)](https://as.abrorov@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as_abrorov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as_abrorov)
 
 [![wakatime](https://wakatime.com/badge/user/f16276a5-d7e4-4541-ad61-fa3d3a1ae19d.svg)](https://wakatime.com/@f16276a5-d7e4-4541-ad61-fa3d3a1ae19d)
 ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat-square&color=blue)
