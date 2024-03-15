@@ -32,7 +32,7 @@ ambient_gradient: {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
-[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=tokyonight) [![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)]((https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical))
+[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=ambient_gradient)](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=tokyonight) [![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)]((https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical))
 
 ## Most Used Languages:
 
