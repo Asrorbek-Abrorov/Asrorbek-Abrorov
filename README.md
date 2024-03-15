@@ -26,11 +26,11 @@
 </div>
 
 ## Github Stats:
-[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=merko)](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=tokyonight) [![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical)]((https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=radical))
-
+[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=holi)](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=holi) [![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=holi)]((https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=holi))
+v
 ## Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact&style=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact&style=holi)
 
 ## Find me on the web or chat with me:
 
