@@ -26,3 +26,6 @@
 
 <a href="https://wakatime.com/@f16276a5-d7e4-4541-ad61-fa3d3a1ae19d"><img src="https://wakatime.com/badge/user/f16276a5-d7e4-4541-ad61-fa3d3a1ae19d.svg" alt="Total time coded since Jul 15 2023" /></a>
 ![Views](https://komarev.com/ghpvc/?username=Asrorbek-Abrorov&label=Views&color=181717&style=flat-square&color=blue)
+
+
+![Asrorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
