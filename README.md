@@ -7,7 +7,7 @@
 </p>
 
 ## Github Stats:
-[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=holi&rank_icon=percentile)](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=holi) [![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=dracula&line_height=10)]((https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=dracula&line_height=10))
+[![Asrorbek-Abrorov's github stats](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=holi&rank_icon=percentile)](https://github-readme-stats.vercel.app/api?username=Asrorbek-Abrorov&theme=holi) [![Asrorbek-Abrorov's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=dracula)]((https://github-readme-streak-stats.herokuapp.com/?user=Asrorbek-Abrorov&theme=dracula))
 
 ## Most Used Languages:
 
