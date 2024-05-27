@@ -12,11 +12,7 @@
 ## Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrorbek-Abrorov&layout=compact&style=holi)
-/*
-## Wakatime Achievements
 
-[![Asrorbek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Asrorbek_Abrorov)](https://github.com/Asrorbek-Abrorov/github-readme-stats)
-*/
 ## Find me on the web or chat with me:
 
 
